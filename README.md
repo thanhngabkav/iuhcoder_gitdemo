@@ -1,3 +1,3 @@
 # iuhcoder_gitdemo
 Demo git version of control
-Hello, this is master
+Hello, this is README from master
